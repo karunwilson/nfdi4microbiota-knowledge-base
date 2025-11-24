@@ -29,3 +29,4 @@ The following list contains the names of the contributors in alphabetical order.
 * Thölken, Clemens (ORCID ID: [0000-0003-4328-9193](https://orcid.org/0000-0003-4328-9193)
 * Vandendorpe, Justine (ORCID ID: [0000-0002-9421-8582](https://orcid.org/0000-0002-9421-8582), Wikidata: [Q62930742](https://www.wikidata.org/wiki/Q62930742))
 * Vockenhuber, Michael (ORCID ID: [0009-0006-8111-1723](https://orcid.org/0009-0006-8111-1723))
+* Wilson, Karun (ORCID ID: [0000-0001-5918-3604](https://orcid.org/0000-0001-5918-3604)
